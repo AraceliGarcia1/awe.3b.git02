@@ -3,3 +3,7 @@ Materia: Aplicaciones web
 Grupo: C
 Grado: 3
 Carrera tecnologias de la informacion
+Area: Desarrollo de software multiplataforma
+Turno: Matutino
+Docente: Jose Narvaez
+Objetivo: Desarrollar aplicaciones
