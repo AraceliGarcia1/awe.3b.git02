@@ -1,9 +1,9 @@
-Mi primer practica git
+Mi primer practica git con visual studio 
 Materia: Aplicaciones web
-Grupo: C
-Grado: 3
+Grupo y grado: 3C
 Carrera tecnologias de la informacion
 Area: Desarrollo de software multiplataforma
 Turno: Matutino
 Docente: Jose Narvaez
 Objetivo: Desarrollar aplicaciones
+competencias: algun texto mas para rellenar 
