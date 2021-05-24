@@ -1,0 +1,5 @@
+Mi primer practica git
+Materia: Aplicaciones web
+Grupo: C
+Grado: 3
+Carrera tecnologias de la informacion
